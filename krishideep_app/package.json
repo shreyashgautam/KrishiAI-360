@@ -1,0 +1,30 @@
+{
+  "name": "krisi-deep-cors-proxy",
+  "version": "1.0.0",
+  "description": "CORS Proxy Server for Krisi Deep App",
+  "main": "cors-proxy-server.js",
+  "scripts": {
+    "start": "node cors-proxy-server.js",
+    "dev": "nodemon cors-proxy-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5",
+    "http-proxy-middleware": "^2.0.6"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "keywords": [
+    "cors",
+    "proxy",
+    "krisi-deep",
+    "farming",
+    "api"
+  ],
+  "author": "Krisi Deep Team",
+  "license": "MIT"
+}

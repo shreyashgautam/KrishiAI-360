@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "519697646770",
+    "project_id": "krishideep-cd50e",
+    "storage_bucket": "krishideep-cd50e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519697646770:android:7279264b3232fd208c35ab",
+        "android_client_info": {
+          "package_name": "com.example.krisi_deep"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6mH-4Zjy6H5-ITOukCszc_9NBFu_es9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
