@@ -316,22 +316,18 @@ flutter run
 
 </div>
 
-| 👤 Member | 🎯 Role | 🔗 Expertise |
-|-----------|---------|--------------|
-| **Dipsita** *(Team Leader)* | ML & Backend Integration | Machine Learning, System Architecture |
-| **Shreyash Gautam** | Full-Stack Developer & Data Analyst | ReactJS, Python, Data Analysis |
-| **Siddharth** | AI/ML Engineer | Deep Learning, Model Optimization |
-| **Adaysha** | IoT Developer | ESP32, Sensor Integration, Arduino |
-| **Nikhil** | Blockchain & Cloud Integration | Docker, Distributed Systems |
-| **Yash** | Mobile App & UI/UX Designer | Flutter, User Experience Design |
+ 👤 Member 
+
+| **Dipsita**
+| **Shreyash Gautam** 
+| **Siddharth** 
+| **Adaysha** 
+| **Nikhil** 
+| **Yash** 
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
